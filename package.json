@@ -1,6 +1,6 @@
 {
    "name": "@bemoje/arr-selection-sort-numeric",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "description": "Selection sort array",
    "main": "dist/arr-selection-sort-numeric.umd.js",
    "module": "dist/arr-selection-sort-numeric.esm.js",
@@ -51,7 +51,7 @@
    },
    "devDependencies": {
       "babel-core": "^6.26.3",
-      "babel-jest": "^25.4.0",
+      "babel-jest": "^25.5.1",
       "babel-preset-env": "^1.7.0",
       "documentation": "^12.3.0",
       "esm": "^3.2.25",
